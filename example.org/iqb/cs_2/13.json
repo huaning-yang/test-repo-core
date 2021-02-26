@@ -4,12 +4,12 @@
   "followers": "https://test.skohub.io/followers?subject=test-repo-core%2Fexample.org%2Fiqb%2Fcs_2%2F13",
   "inbox": "https://test.skohub.io/inbox?target=test-repo-core%2Fexample.org%2Fiqb%2Fcs_2%2F13",
   "prefLabel": {
-    "de": "Projekt"
+    "de": "Ministerium für Kinder, Familie, Flüchtlinge und Integration des Landes NRW (ehemals: Ministerium für Familie, Kinder, Jugend, Kultur und Sport)"
   },
   "inScheme": {
     "id": "http://example.org/iqb/cs_2/",
     "title": {
-      "de": "Gültigkeitsbereich"
+      "de": "Auftraggeber / Mittelgeber"
     }
   },
   "topConceptOf": {

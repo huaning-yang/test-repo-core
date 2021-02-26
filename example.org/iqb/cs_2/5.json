@@ -4,12 +4,12 @@
   "followers": "https://test.skohub.io/followers?subject=test-repo-core%2Fexample.org%2Fiqb%2Fcs_2%2F5",
   "inbox": "https://test.skohub.io/inbox?target=test-repo-core%2Fexample.org%2Fiqb%2Fcs_2%2F5",
   "prefLabel": {
-    "de": "Datensatz"
+    "de": "Ministerium für Bildung, Wissenschaft, Jugend und Kultur des Landes Rheinland-Pfalz"
   },
   "inScheme": {
     "id": "http://example.org/iqb/cs_2/",
     "title": {
-      "de": "Gültigkeitsbereich"
+      "de": "Auftraggeber / Mittelgeber"
     }
   },
   "topConceptOf": {

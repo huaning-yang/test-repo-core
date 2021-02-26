@@ -4,12 +4,12 @@
   "followers": "https://test.skohub.io/followers?subject=test-repo-core%2Fexample.org%2Fiqb%2Fcs_2%2F15",
   "inbox": "https://test.skohub.io/inbox?target=test-repo-core%2Fexample.org%2Fiqb%2Fcs_2%2F15",
   "prefLabel": {
-    "de": "Antragsinhalt"
+    "de": "Behörde für Schule und Berufsbildung der Freien und Hansestadt Hamburg (BSB)"
   },
   "inScheme": {
     "id": "http://example.org/iqb/cs_2/",
     "title": {
-      "de": "Gültigkeitsbereich"
+      "de": "Auftraggeber / Mittelgeber"
     }
   },
   "topConceptOf": {
